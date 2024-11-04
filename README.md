@@ -1,9 +1,8 @@
 # GenAIGameOnGradio
 
 ## Description
-GenAI Game on Gradio involves two key steps:
-1. Implement the game described in the "Describe and Generate Game."
-2. Integrate the result of Step 1 by also providing audio output as an optional requirement.
+Building a game app that combines text-to-image and image-to-text models using Gradio app development for NLP and image-related tasks.
+Overview of the game's concept, which involves starting with image captioning and generating new images from captions.
 
 ## Installation Instructions
 
